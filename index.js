@@ -1,7 +1,7 @@
 const quizQuestions = require('readline-sync');
 
 const name = quizQuestions.question('What is your name? \n');
-console.log(`Hello, Welcome ${name} to this quiz on Software Design and FullStack Development`);
+console.log(`Hello, Welcome ${name} to this quiz on Data structure and FullStack Development`);
 
 const questions = [
    {
